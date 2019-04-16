@@ -4,5 +4,11 @@ form {
 }
 
 #index {
-    margin-bottom: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#words {
+    height: 50vh;
+    overflow-y: auto;
 }

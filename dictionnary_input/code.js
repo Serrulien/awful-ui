@@ -1,3 +1,4 @@
+// https://github.com/Serrulien/awful-ux
 const textarea = document.getElementsByTagName('textarea')[0];
 const dictionnary = document.getElementById('dictionnary');
 const index = document.getElementById('index');

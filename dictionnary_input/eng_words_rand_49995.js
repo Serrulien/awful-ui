@@ -1,4 +1,4 @@
-// https://github.com/Serrulien/awful-ui
+// https://github.com/Serrulien/awful-ux
 const wordsIndex = {
     // startIndex, length
     a:[ 0, 3497 ],
